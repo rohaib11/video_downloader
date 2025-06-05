@@ -1,5 +1,16 @@
+# Node modules
 node_modules/
-downloads/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
 .env
+
+# Temporary files
 .DS_Store
-*.log
+
+
+downloads/
